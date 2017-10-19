@@ -2,7 +2,7 @@ How To Play War
 
 Give each of the two players 26 cards in a pile face down
 
-Need to specify if the pile of cards is a standard deck of cards with 52 total cards, otherwise the coder does not know if the original pile is 54 cards with the jokers included.
+//Need to specify if the pile of cards is a standard deck of cards with 52 total cards, otherwise the coder does not know if the original pile is 54 cards with the jokers included.
 
 
 	At the same each player will flip over the card that is on the top of their deck:
